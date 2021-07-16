@@ -1,0 +1,7 @@
+//DEFINIÇOES Monta
+
+#define ALTURA     10 
+#define LARGURA    10
+
+#define ALTURAPARACALCULO   10.0
+#define LARGURAPARACALCULO  10.0
